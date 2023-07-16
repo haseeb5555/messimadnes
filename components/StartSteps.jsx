@@ -1,3 +1,5 @@
+import React from "react";
+
 import styles from "../styles";
 
 const StartSteps = ({number,text}) => (
